@@ -18,6 +18,12 @@ __bold + italic__
   - Sub item
     Inline code
     we use the `<h1>` tag to
+    ```cmd
+    git clone <url>
+    ```  
+    ``` javascript
+    console.log ("Hello")
+    ```
 
 
 
