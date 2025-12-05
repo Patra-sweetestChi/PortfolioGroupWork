@@ -16,6 +16,8 @@ __bold + italic__
 >> Level 2  
 - Item 1  
   - Sub item
+    Inline code
+    we use the '<h1>' tag to
 
 
 
