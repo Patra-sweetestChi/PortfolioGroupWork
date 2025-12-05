@@ -17,7 +17,7 @@ __bold + italic__
 - Item 1  
   - Sub item
     Inline code
-    we use the '<h1>' tag to
+    we use the `<h1>` tag to
 
 
 
