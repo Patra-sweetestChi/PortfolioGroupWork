@@ -26,7 +26,7 @@ __bold + italic__
     ``` javascript
     console.log ("Hello")
     ```
-    This code was created by [yvesdylane] (http://example.com)
+    This code was created by [yvesdylane](http://example.com)
     
 
 
